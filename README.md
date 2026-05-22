@@ -11,10 +11,10 @@
 #### - Use loops, conditions, indexing, and split()
 
 ### Create an empty list
-sleep_hours = []
 ```python
+sleep_hours = []
 print("Weekly Sleep Tracker")
-``
+```
 ### Ask the user for sleep hours
 ```python
 while True:
